@@ -8,4 +8,4 @@ Microsoft 365 Copilot Basic (available as part of the M365 licence (e.g. E3, E5,
 Microsoft 365 Copilot Premium licence with access to your business data such as email, Teams meetings, OneDrive/SharePoint content: https://m365.cloud.microsoft/chat.
 
 # Method
-Copy the prompt using the Copy raw file icon (small overlappring documents image) in the top right corner of the prompt page then paste into your application then run.
+Copy the prompt using the Copy raw file icon (small overlappring documents image) in the top right corner of the prompt page or select Copy from the drop down menu using the elipsis (three dots) then paste into your application then run.
