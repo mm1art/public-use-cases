@@ -1,1 +1,17 @@
+# Master instructions to be pasted into Copilot Cowork
+ 
+Data:
+Template:
+Persona: Procurement officer
+Request:
+As the Persona complete each letter based on the Data and Template. Make the output natural narrative based using a professional style. After creating each letter, send an email with the letter as an attached document to the internal contact for them to review. The email must mention they have 2 days to respond and whether any amendments need to be made. Make one check after two days to see how many responses have been received and send me an email message with a report of those that need to be chased up.
 
+
+# To be initiated after the main instructions have been run
+
+## Add-in
+Create the procurement letter writing skill based on the acceptance of the data and template.
+
+## Add-in [need to select "run now" to trigger the changes as the schedule it set to two days]
+One change from me.
+Replace Sofia Nguyen with Patricia Carter patricia.carter@glenbrookit.example
