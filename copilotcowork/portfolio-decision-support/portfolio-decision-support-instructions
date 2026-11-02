@@ -1,1 +1,38 @@
+# Business trigger:
+The Transformation Portfolio Board begins soon. 
+The current board materials are too large and fragmented for a decision-focused discussion.
+Using only the authorised source materials attached, create a board-pack compression for the Northstar Transformation Portfolio Board.
 
+# Produce:
+1. A one-page executive narrative.
+2. A concise PowerPoint board pack containing:
+ - portfolio position and material changes since the last board;
+ - decisions requested;
+ - top risks;
+ - cross-programme dependencies;
+ - resource constraints and tensions;
+ - milestone exceptions;
+ - progress against actions from the previous board;
+ - questions leaders should ask.
+3. A source-trace table for every material claim and decision request.
+4. A standalone web based HTML page (using a responsive web design) that provides a detailed view of the board pack in step 2.
+
+# Where sources conflict:
+- show the conflicting evidence;
+- identify the source and date of each version;
+- do not choose one as correct;
+- mark the item as requiring human confirmation.
+
+# Before creating the final outputs, show me:
+- the proposed executive storyline;
+- the decisions you believe are being requested;
+- any conflicts or missing evidence;
+- anything excluded because of sensitivity, access restrictions or uncertain  disclosure authority.
+
+# Constraints
+Programme synthesis only. 
+Do not make portfolio decisions or approvals. 
+Do not include classified project detail, customer-restricted information or financial information unless it is explicitly authorised for this board pack.
+Preserve applicable sensitivity labels on the derived outputs.
+Keep every programme name, date, milestone, status, score and value exactly as provided in the authorised sources. 
+Do not overwrite or update any source file.
